@@ -11,6 +11,8 @@ Página estática pronta para a Vercel. O arquivo publicado é `public/index.htm
 
 Não são necessárias variáveis de ambiente.
 
+Qualquer caminho diferente de `/` redireciona para a página principal com HTTP 307. A raiz fica fora da regra para evitar loop. Os recursos da página estão incorporados no HTML ou hospedados externamente.
+
 ## Vídeo e ofertas
 
 - Player VTurb: `6ab9da13f94ad8ef5748178b`.
