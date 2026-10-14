@@ -15,6 +15,7 @@ Qualquer caminho diferente de `/` redireciona para a página principal com HTTP 
 
 ## Vídeo e ofertas
 
+- Tela de entrada com carregamento: o botão Continuar é habilitado após o carregamento da página. A página principal e o player só são liberados após o clique, a cada visita.
 - Player VTurb: `6ab9da13f94ad8ef5748178b`.
 - Ofertas liberadas na posição 1675 segundos (27:55) do vídeo.
 - Sem liberação por tempo de página aberta. Se o tempo do player não estiver acessível, as ofertas permanecem ocultas.
